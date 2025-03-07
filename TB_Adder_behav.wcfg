@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TB_Adder_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TB_Adder" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="2,036.604 ns"></ZoomEndTime>
+      <Cursor1Time time="1,000.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="73"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/TB_Adder/test32_in1" type="array">
+      <obj_property name="ElementShortName">test32_in1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">test32_in1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Adder/test32_in2" type="array">
+      <obj_property name="ElementShortName">test32_in2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">test32_in2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Adder/test32_cin" type="logic">
+      <obj_property name="ElementShortName">test32_cin</obj_property>
+      <obj_property name="ObjectShortName">test32_cin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Adder/test_clk" type="logic">
+      <obj_property name="ElementShortName">test_clk</obj_property>
+      <obj_property name="ObjectShortName">test_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Adder/test32_sum" type="array">
+      <obj_property name="ElementShortName">test32_sum[31:0]</obj_property>
+      <obj_property name="ObjectShortName">test32_sum[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Adder/test32_cout" type="logic">
+      <obj_property name="ElementShortName">test32_cout</obj_property>
+      <obj_property name="ObjectShortName">test32_cout</obj_property>
+   </wvobject>
+</wave_config>
