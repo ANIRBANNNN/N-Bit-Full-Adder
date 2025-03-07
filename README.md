@@ -1,4 +1,3 @@
-# N-Bit-Full-Adder Design Using Verilog
 # N-bit Ripple Carry Adder in Verilog
 
 This repository contains a **parameterizable N-bit Ripple Carry Adder** implemented in Verilog. The design is hierarchical and scalable, allowing flexible bit-width configurations.
